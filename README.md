@@ -1,5 +1,9 @@
 # IntroToCogSci-StroopTests-OpenSource
- Final Coding Project for Introduction to Cognitive Science course at RPI. Open Source, but only for academic purposes - Reusing written code for your school projects is not under academic purposes.
+ Final Coding Project for Introduction to Cognitive Science course at RPI. Open Source, but only for academic purposes.
+  - Modifying the code for Open Source and Research is under academic purposes.
+  - Reusing written code for your school projects and calling it your own is not under academic purposes. 
+  Please give us some form of credit like putting us in the references.
+    Thank You (Alan W & Matt P).
 
 Pygame Version:
 
