@@ -5,7 +5,7 @@
   Please give us some form of credit like putting us in the references.
     Thank You (Alan W & Matt P).
 
-Pygame Version:
+Pygame Version - Alan W:
 
 * Note: StroopTestColorsColors is the most understandable one in terms of organized code.
 
